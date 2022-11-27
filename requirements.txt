@@ -7,3 +7,4 @@ pandas==1.5.1
 scikit-learn==1.1.3
 scipy==1.9.3
 seaborn==0.12.1
+Corpus==0.4.2
