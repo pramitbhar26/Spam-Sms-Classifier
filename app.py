@@ -3,7 +3,7 @@ import pickle
 import string
 from nltk.corpus import stopwords
 import nltk
-import nltk.download('all')
+nltk.download('all')
 from nltk.stem.porter import PorterStemmer
 
 
