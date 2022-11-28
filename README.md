@@ -12,6 +12,6 @@ I have deployed this project on streamlit.io using github url
 
 
 ```bash
-  
+  https://pramitbhar26-spam-sms-classifier-app-uh9o5k.streamlit.app/
 ```
 
